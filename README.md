@@ -1,7 +1,10 @@
 # Projeto Podcast com IA – Coleção de Prompts
 
 Este repositório contém uma coleção de prompts otimizados para a criação de um podcast sobre cybersegurança. O projeto foi recriado e personalizado por @serjsabyn para facilitar a criação de conteúdo de podcast com IA.
-> ℹ️ Nota: Este projeto foi inspirado em outro repositório de prompts para podcast com IA e adaptado para uso próprio.  
+> ℹ️ Nota: Este projeto foi inspirado em outro repositório de prompts para podcast com IA e adaptado para uso próprio.
+
+## Sobre  
+Este projeto tem como objetivo demonstrar as habilidades aprendidas durante o Bootcamp de IA da Universia, pela plataforma DIO.
 
 ## Tecnologias utilizadas  
 * Gemini/ChatGPT
@@ -20,8 +23,4 @@ Este repositório contém uma coleção de prompts otimizados para a criação d
 * Nome: Sergio Sabino da Silva Filho 
 * GitHub: [@serjsabyn](https://github.com/serjsabyn)
 * LinkedIn: [ssabino](www.linkedin.com/in/ssabino)
-
-
-* ## Sobre  
-Este projeto tem como objetivo demonstrar as habilidades aprendidas durante o Bootcamp de IA da Universia, pela plataforma DIO.
 
