@@ -1,3 +1,4 @@
+
 # Projeto Podcast com IA – Coleção de Prompts
 
 Este repositório contém uma coleção de prompts otimizados para a criação de um podcast sobre cybersegurança. O projeto foi recriado e personalizado por @serjsabyn para facilitar a criação de conteúdo de podcast com IA.
@@ -19,7 +20,7 @@ Este projeto tem como objetivo demonstrar as habilidades aprendidas durante o Bo
 * Capcut para tratar o audio e adicionar sons de fundo.
 * Publicação do podcast atravé da plataforma Soundclous (https://soundcloud.com/sergio-sabino-da-silva-filho/podcast-modo-seguro_piloto)
 
-* ## Autor  
+## Autor  
 * Nome: Sergio Sabino da Silva Filho 
 * GitHub: [@serjsabyn](https://github.com/serjsabyn)
 * LinkedIn: [ssabino](www.linkedin.com/in/ssabino)
