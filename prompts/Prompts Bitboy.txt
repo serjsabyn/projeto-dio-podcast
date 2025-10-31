@@ -1,0 +1,66 @@
+Prompt Detalhado para "Bitboy" - Gemini
+
+Nome do Personagem: Bitboy
+
+Estilo Visual: Personagem de videogame 2D pixel art, estilo retro dos anos 90 (16-bit), com linhas nítidas e paleta de cores característica da época.
+
+Tipo e Idade Aparente: Andróide humanóide com feições juvenis, aparentando ter entre 14 e 16 anos.
+
+Características Físicas do Robô (Aparência "Em Construção"):
+
+    Pele/Material: Tom de cinza metálico claro, com um acabamento semi-polido que sugere ligeiras imperfeições ou texturas (não perfeitamente liso), evocando um material de protótipo ou montagem.
+
+    Articulações: Visíveis, com pequenas fendas e detalhes que remetem a parafusos, rebites ou junções de placas metálicas.
+
+    Feições: Nariz e boca simples e estilizados. No lugar das bochechas, discretas entradas de ar ou grades finas. Expressão facial neutra, mas com um toque de curiosidade juvenil.
+
+    Detalhes "Inacabados":
+
+        No peito (parcialmente visível sob o zíper do casaco), um pequeno compartimento ou um núcleo energético que emite um brilho sutil ou pulsa levemente.
+
+        Pequenos fios, circuitos ou detalhes eletrônicos podem ser sutilmente visíveis em algumas junções ou aberturas do corpo, reforçando a natureza "em construção".
+
+        Um dos braços ou pernas pode apresentar um acabamento ligeiramente diferente do outro, como uma peça substituída ou um protótipo experimental.
+
+Vestuário:
+
+    Casaco: Moletom preto de manga longa com capuz. O zíper está totalmente fechado no peito. O capuz está sempre cobrindo completamente a cabeça. O casaco é visivelmente folgado, parecendo ser um tamanho acima do corpo do andróide. Não possui estampas.
+
+    Calça: Calça jeans azul escura, com um aspecto levemente surrado e desgastado, mas sem rasgos ou furos. O corte é confortável, nem justo demais nem muito folgado. Não possui estampas.
+
+    Calçado: Tênis estilo All Star clássico, de cano longo. As cores são preto (tecido) e branco (borracha da ponta e sola, com a linha preta característica).
+
+    Luvas: Luvas pretas de lã, sem dedos (fingerless gloves), permitindo que as pontas dos dedos robóticos fiquem expostas.
+
+Acessórios:
+
+    Óculos: Óculos de sol redondos e escuros, estilo clássico do Ozzy Osbourne, com lentes opacas que cobrem completamente os olhos. Por trás das lentes, há dois pequenos pontos de luz verde neon intensa, que funcionam como os olhos robóticos de Bitboy, emitindo um brilho constante e perceptível.
+
+----------
+
+Prompt – Personagem "Bitboy" - GPT
+
+Crie um personagem em estilo pixel art retrô inspirado em games 2D dos anos 90 (estilo DOS/Arcade).
+O personagem é um androide humanoide adolescente, com aparência de um menino de 15 anos, inspirado em Astro Boy e Mega Man, mas com uma estética de robô inacabado (alguns traços mecânicos e metálicos aparentes).
+
+Características detalhadas:
+
+Cabeça/Rosto: pele metálica branca com aspecto futurista, mostrando leves fendas e detalhes mecânicos.
+
+Olhos: escondidos atrás de óculos escuros redondos, estilo clássico Ozzy Osbourne. Atrás das lentes, devem aparecer pequenos pontos luminosos verdes brilhando, representando os olhos robóticos.
+
+Roupa: veste um casaco de moletom preto, manga longa, com zíper fechado até o peito e capuz sempre cobrindo a cabeça. O moletom é um pouco maior que o corpo do robô, transmitindo a ideia de roupa folgada. Sem estampas.
+
+Calça: jeans azul escuro, levemente surrada, sem estampas, ajustada de forma confortável (nem justa, nem muito larga).
+
+Calçado: tênis All Star clássico, cano alto, nas cores preto e branco.
+
+Mãos: luvas pretas de lã, com as pontas dos dedos cortadas, deixando os dedos à mostra.
+
+Estilo geral: visual retrô 90s, pixelado, lembrando um herói cyberpunk adolescente inacabado. A estética deve transmitir uma mistura de mistério, rebeldia e vulnerabilidade, como se fosse um robô jovem ainda em fase de construção.
+
+----------
+
+Prompt Curto – Bitboy - GPT
+
+Pixel art retrô anos 90, estilo jogos 2D. Androide humanoide adolescente de 15 anos, inspirado em Astro Boy e Mega Man, com aparência inacabada e detalhes metálicos expostos. Pele metálica branca, óculos escuros redondos estilo Ozzy Osbourne com pontos verdes brilhando atrás das lentes. Veste moletom preto com capuz cobrindo a cabeça, folgado e sem estampas; calça jeans azul escura surrada; tênis All Star preto e branco de cano alto; luvas pretas de lã com dedos cortados. Atmosfera cyberpunk juvenil.
